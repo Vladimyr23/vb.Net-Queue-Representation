@@ -1,0 +1,11 @@
+D:\visual studio 2015\Projects\QueueRepresentation\QueueRepresentation\bin\Debug\QueueRepresentation.exe.config
+D:\visual studio 2015\Projects\QueueRepresentation\QueueRepresentation\bin\Debug\QueueRepresentation.exe
+D:\visual studio 2015\Projects\QueueRepresentation\QueueRepresentation\bin\Debug\QueueRepresentation.pdb
+D:\visual studio 2015\Projects\QueueRepresentation\QueueRepresentation\bin\Debug\QueueRepresentation.xml
+D:\visual studio 2015\Projects\QueueRepresentation\QueueRepresentation\obj\Debug\QueueRepresentation.vbprojResolveAssemblyReference.cache
+D:\visual studio 2015\Projects\QueueRepresentation\QueueRepresentation\obj\Debug\QueueRepresentation.Form1.resources
+D:\visual studio 2015\Projects\QueueRepresentation\QueueRepresentation\obj\Debug\QueueRepresentation.Resources.resources
+D:\visual studio 2015\Projects\QueueRepresentation\QueueRepresentation\obj\Debug\QueueRepresentation.vbproj.GenerateResource.Cache
+D:\visual studio 2015\Projects\QueueRepresentation\QueueRepresentation\obj\Debug\QueueRepresentation.exe
+D:\visual studio 2015\Projects\QueueRepresentation\QueueRepresentation\obj\Debug\QueueRepresentation.xml
+D:\visual studio 2015\Projects\QueueRepresentation\QueueRepresentation\obj\Debug\QueueRepresentation.pdb
